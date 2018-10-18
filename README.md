@@ -4,4 +4,6 @@ This repository contains the code for the course Algorithms in Big Data Analysis
 
 see http://bicmr.pku.edu.cn/~wenzw/bigdata2018.html
 
-project1 report.pdf can help you navigate the problems of the code in l1_minimization and Sparse-Inverse.
+**project1 report.pdf** can help you navigate the problems of the code in l1_minimization and Sparse-Inverse.
+
+**phase-hw.pdf** can help you navigate the problems of the code in Phase-Retrieval.
