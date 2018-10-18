@@ -12,3 +12,5 @@ see http://bicmr.pku.edu.cn/~wenzw/bigdata2018.html
 
 **svd-report.pdf** can help you navigate the problems and algorithms of the code in SVD.
 
+Contact me for any bugs and errors: smshhw@pku.edu.cn
+
