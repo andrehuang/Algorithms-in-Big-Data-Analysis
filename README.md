@@ -1,6 +1,6 @@
 # Algorithms-in-Big-Data-Analysis
 
-This repository contains self-implemented code for the course Algorithms in Big Data Analysis by Zaiwen Wen at Peking University. Usage is only appropriate for education purpose.
+This repository contains self-implemented code for the course Algorithms in Big Data Analysis by Zaiwen Wen at Peking University. Usage is only appropriate for educational purpose. *PLEASE DO NOT USE THESE CODES IN YOUR OWN HOMEWORK!*
 
 see http://bicmr.pku.edu.cn/~wenzw/bigdata2018.html
 
